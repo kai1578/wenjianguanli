@@ -1,0 +1,42 @@
+{
+  "productCode": {
+    "enabled": true,
+    "pattern": "(^[A-Za-z0-9]+(?:-(?!V\\d)[A-Za-z0-9]+)+)"
+  },
+  "productName": {
+    "enabled": true,
+    "pattern": "([\\u4e00-\\u9fa5][\\u4e00-\\u9fa50-9]*[\\u4e00-\\u9fa5])"
+  },
+  "version": {
+    "enabled": true,
+    "pattern": "(V\\d+(?:\\.\\d+)?)"
+  },
+  "fillMode": "overwrite",
+  "autoParseOnOpen": true,
+  "showHistoryFiles": false,
+  "learnSample": "YSZC-ME02-05-001-V2.3针齿壳81速比BXB10025",
+  "machineAccess": [
+    {
+      "machineCode": "15328ef7-dd8c-401f-8c08-c521bb4b4e2a",
+      "workerName": "1",
+      "employeeId": "1",
+      "allowedModules": [
+        "production",
+        "quality",
+        "inventory",
+        "product"
+      ]
+    },
+    {
+      "machineCode": "dab25527-49b6-4fa4-bd8a-67853d5387d5",
+      "workerName": "1",
+      "employeeId": "1",
+      "allowedModules": [
+        "production",
+        "quality",
+        "inventory",
+        "product"
+      ]
+    }
+  ]
+}

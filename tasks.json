@@ -1,0 +1,268 @@
+{
+  "tasks": [
+    {
+      "id": "T-20260923-004",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "2",
+      "unit": "件",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "stocked",
+      "createdAt": "2026-09-22T21:44:34.916Z",
+      "updatedAt": "2026-09-22T21:56:59.050Z",
+      "productionData": {
+        "producedQty": 1,
+        "goodQty": 1,
+        "badQty": 0,
+        "parts": [
+          {
+            "productCode": "YSZC-ME02-05-004",
+            "productName": "上壳体",
+            "version": "V1.1",
+            "processedQty": 1,
+            "goodQty": 1,
+            "badQty": 0,
+            "unit": "件",
+            "material": "111",
+            "texture": "222"
+          }
+        ],
+        "photos": [],
+        "completedBy": "1",
+        "completedAt": "2026-09-22T21:44:59.448Z"
+      },
+      "qcData": {
+        "qualifiedQty": 1,
+        "unqualifiedQty": 0,
+        "defectReasons": "",
+        "result": "pass",
+        "qcBy": "1",
+        "qcAt": "2026-09-22T21:56:59.049Z",
+        "parts": [
+          {
+            "productCode": "YSZC-ME02-05-004",
+            "productName": "上壳体",
+            "version": "V1.1",
+            "quantity": 1,
+            "unqualifiedQty": 0,
+            "result": "pass",
+            "defectReasons": "",
+            "unit": "件",
+            "material": "111",
+            "texture": "222"
+          }
+        ]
+      }
+    },
+    {
+      "id": "T-20260923-003",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "1",
+      "unit": "件",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "in-progress",
+      "createdAt": "2026-09-22T21:37:53.331Z",
+      "updatedAt": "2026-09-22T21:38:07.255Z"
+    },
+    {
+      "id": "T-20260923-002",
+      "name": "YSZC-ME02-05-010",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-010-V1.1动子传动件下BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "10",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "in-progress",
+      "createdAt": "2026-09-22T21:31:03.103Z",
+      "updatedAt": "2026-09-22T21:31:27.338Z"
+    },
+    {
+      "id": "T-20260923-001",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "",
+      "unit": "",
+      "worker": "",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "pending",
+      "createdAt": "2026-09-22T21:30:52.737Z"
+    },
+    {
+      "id": "T-20260922-004",
+      "name": "YSZC-ME02-05-010",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-010-V1.1动子传动件下BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "10",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "stocked",
+      "createdAt": "2026-09-22T14:14:36.316Z",
+      "updatedAt": "2026-09-22T14:14:56.389Z",
+      "productionData": {
+        "producedQty": 10,
+        "goodQty": 10,
+        "badQty": 0,
+        "photos": [],
+        "completedBy": "1",
+        "completedAt": "2026-09-22T14:14:48.508Z"
+      },
+      "qcData": {
+        "qualifiedQty": 10,
+        "unqualifiedQty": 0,
+        "defectReasons": "",
+        "result": "pass",
+        "qcBy": "1",
+        "qcAt": "2026-09-22T14:14:56.389Z",
+        "parts": []
+      }
+    },
+    {
+      "id": "T-20260922-003",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "10",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "stocked",
+      "createdAt": "2026-09-22T13:45:19.467Z",
+      "updatedAt": "2026-09-22T13:45:39.780Z",
+      "productionData": {
+        "producedQty": 10,
+        "goodQty": 10,
+        "badQty": 0,
+        "photos": [],
+        "completedBy": "1",
+        "completedAt": "2026-09-22T13:45:31.506Z"
+      },
+      "qcData": {
+        "qualifiedQty": 10,
+        "unqualifiedQty": 0,
+        "defectReasons": "",
+        "result": "pass",
+        "qcBy": "1",
+        "qcAt": "2026-09-22T13:45:39.780Z"
+      }
+    },
+    {
+      "id": "T-20260922-002",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "10",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "stocked",
+      "createdAt": "2026-09-22T13:16:53.389Z",
+      "updatedAt": "2026-09-22T13:17:16.645Z",
+      "productionData": {
+        "producedQty": 10,
+        "goodQty": 10,
+        "badQty": 0,
+        "photos": [],
+        "completedBy": "1",
+        "completedAt": "2026-09-22T13:17:07.878Z"
+      },
+      "qcData": {
+        "qualifiedQty": 10,
+        "unqualifiedQty": 0,
+        "defectReasons": "",
+        "result": "pass",
+        "qcBy": "1",
+        "qcAt": "2026-09-22T13:17:16.645Z"
+      }
+    },
+    {
+      "id": "T-20260922-001",
+      "name": "YSZC-ME02-05-004",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-004-V1.1上壳体BXSB10025.PDF",
+      "attachments": [],
+      "quantity": "",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "",
+      "priority": "medium",
+      "remark": "",
+      "status": "pending-qc",
+      "createdAt": "2026-09-22T13:15:57.561Z",
+      "updatedAt": "2026-09-22T13:16:43.391Z"
+    },
+    {
+      "id": "T-20260921-001",
+      "name": "11",
+      "product": "BXB10025",
+      "drawing": "BXB10025/YSZC-ME02-05-010-V1.1动子传动件下BXSB10025.PDF",
+      "attachments": [
+        "BXB10025/YSZC-ME02-05-010-V1.1动子传动件下BXSB10025/YSZC-ME02-05-010-V1.1动子传动件下BXSB10025.STEP"
+      ],
+      "quantity": "10",
+      "unit": "",
+      "worker": "1",
+      "equipment": "",
+      "deadline": "2026-09-23",
+      "priority": "medium",
+      "remark": "",
+      "status": "stocked",
+      "createdAt": "2026-09-20T21:38:40.745Z",
+      "updatedAt": "2026-09-22T13:15:19.974Z",
+      "productionData": {
+        "producedQty": 10,
+        "goodQty": 10,
+        "badQty": 0,
+        "photos": [],
+        "completedBy": "1",
+        "completedAt": "2026-09-22T12:09:05.187Z"
+      },
+      "qcData": {
+        "qualifiedQty": 10,
+        "unqualifiedQty": 0,
+        "defectReasons": "",
+        "result": "pass",
+        "qcBy": "1",
+        "qcAt": "2026-09-22T13:15:19.974Z"
+      }
+    }
+  ],
+  "workers": [],
+  "equipments": []
+}

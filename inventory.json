@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 38,
+      "unit": "件",
+      "material": "1",
+      "texture": "1",
+      "productFolder": "BXB10025",
+      "safetyStock": 0,
+      "updatedAt": "2026-09-22T14:15:03.904Z",
+      "lastUsedBy": "1",
+      "lastUsedAt": "2026-09-22T13:46:09.298Z",
+      "status": "已领用"
+    },
+    {
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 40,
+      "unit": "件",
+      "material": "111",
+      "texture": "222",
+      "productFolder": "BXB10025",
+      "safetyStock": 0,
+      "updatedAt": "2026-09-22T21:57:06.765Z",
+      "lastUsedBy": "1",
+      "lastUsedAt": "2026-09-22T14:00:51.544Z",
+      "status": "已领用"
+    },
+    {
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 39,
+      "unit": "件",
+      "material": "",
+      "texture": "",
+      "productFolder": "BXB10025",
+      "safetyStock": 0,
+      "updatedAt": "2026-09-22T14:15:03.904Z",
+      "lastUsedBy": "1",
+      "lastUsedAt": "2026-09-22T14:00:54.829Z",
+      "status": "已领用"
+    }
+  ],
+  "logs": [
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 1,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 按零件登记",
+      "timestamp": "2026-09-22T21:57:06.765Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T14:15:03.904Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T14:15:03.904Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T14:15:03.904Z"
+    },
+    {
+      "type": "reduce",
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 1,
+      "operator": "1",
+      "remark": "领用出库",
+      "timestamp": "2026-09-22T14:00:54.829Z"
+    },
+    {
+      "type": "reduce",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 1,
+      "operator": "1",
+      "remark": "领用出库",
+      "timestamp": "2026-09-22T14:00:51.544Z"
+    },
+    {
+      "type": "reduce",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 1,
+      "operator": "1",
+      "remark": "领用出库",
+      "timestamp": "2026-09-22T13:46:09.298Z"
+    },
+    {
+      "type": "reduce",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 1,
+      "operator": "1",
+      "remark": "领用出库",
+      "timestamp": "2026-09-22T13:46:04.485Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:45:49.114Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:45:49.114Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:45:49.114Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:17:22.633Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:17:22.633Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:17:22.633Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-010",
+      "productName": "动子传动件下",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:15:35.065Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-004",
+      "productName": "上壳体",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:15:35.065Z"
+    },
+    {
+      "type": "add",
+      "productCode": "YSZC-ME02-05-001",
+      "productName": "针齿壳",
+      "version": "V1.1",
+      "quantity": 10,
+      "operator": "质检入库",
+      "remark": "产品 BXB10025 × 10",
+      "timestamp": "2026-09-22T13:15:35.065Z"
+    }
+  ]
+}

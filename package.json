@@ -1,0 +1,66 @@
+{
+  "name": "wenjianguanli",
+  "version": "3.10.1",
+  "description": "极简 PDF 文件管理系统",
+  "main": "main.js",
+  "author": "小凯 <QQ:1767891667>",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "@noble/hashes": "^2.4.0",
+    "electron": "^44.2.0",
+    "electron-builder": "^26.15.3"
+  },
+  "dependencies": {
+    "adm-zip": "^0.6.0"
+  },
+  "build": {
+    "appId": "com.xiaokai.wenjianguanli",
+    "productName": "文件管理系统",
+    "copyright": "Copyright © 2026 小凯",
+    "directories": {
+      "output": "dist2",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "main/**/*",
+      "preload.js",
+      "drag-icon.png",
+      "public/**/*",
+      "package.json",
+      "!files/**/*",
+      "!启动.bat",
+      "!.window-bounds.json",
+      "!settings.json",
+      "!build/**/*",
+      "!dist/**/*"
+    ],
+    "asar": true,
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "文件管理系统",
+      "deleteAppDataOnUninstall": false,
+      "language": "2052",
+      "artifactName": "文件管理系统-Setup-${version}.${ext}"
+    }
+  }
+}

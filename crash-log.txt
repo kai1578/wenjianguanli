@@ -1,0 +1,5 @@
+[2026-09-18T15:33:03.155Z] render-process-gone: {"reason":"crashed","exitCode":143}
+[2026-09-19T10:20:17.612Z] render-process-gone: {"reason":"crashed","exitCode":143}
+[2026-09-19T10:37:17.900Z] render-process-gone: {"reason":"crashed","exitCode":143}
+[2026-09-19T11:33:04.564Z] render-process-gone: {"reason":"crashed","exitCode":143}
+[2026-09-19T11:50:13.399Z] render-process-gone: {"reason":"crashed","exitCode":143}
